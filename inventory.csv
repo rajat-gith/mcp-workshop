@@ -1,0 +1,51 @@
+hospital_id,hospital_name,location,item,category,stock,threshold,unit,unit_price,supplier,lead_time_days,criticality
+HOSP-A,City General Hospital,Bhubaneswar,IV_Fluids,Critical Care,45,100,bags,3500,VEND-01,1,HIGH
+HOSP-A,City General Hospital,Bhubaneswar,Blood_O-,Blood,12,30,units,4200,VEND-02,1,CRITICAL
+HOSP-A,City General Hospital,Bhubaneswar,Surgical_Gloves,Surgical,850,500,boxes,1200,VEND-03,3,MEDIUM
+HOSP-A,City General Hospital,Bhubaneswar,Syringes,Medical Supplies,120,300,boxes,1800,VEND-04,2,HIGH
+HOSP-A,City General Hospital,Bhubaneswar,Antibiotics,Medication,450,200,packs,2500,VEND-05,4,HIGH
+HOSP-A,City General Hospital,Bhubaneswar,Face_Masks,PPE,2500,1000,boxes,900,VEND-03,3,LOW
+HOSP-A,City General Hospital,Bhubaneswar,Oxygen_Cylinders,Critical Care,18,25,cylinders,4800,VEND-06,1,CRITICAL
+HOSP-A,City General Hospital,Bhubaneswar,Insulin,Medication,85,50,vials,3200,VEND-05,2,HIGH
+HOSP-A,City General Hospital,Bhubaneswar,Catheters,Medical Supplies,190,150,packs,2100,VEND-04,3,MEDIUM
+HOSP-A,City General Hospital,Bhubaneswar,Hand_Sanitizer,PPE,600,300,bottles,800,VEND-03,3,LOW
+HOSP-B,Apollo Community Hospital,Cuttack,IV_Fluids,Critical Care,240,100,bags,3500,VEND-01,1,HIGH
+HOSP-B,Apollo Community Hospital,Cuttack,Blood_O-,Blood,8,30,units,4200,VEND-02,1,CRITICAL
+HOSP-B,Apollo Community Hospital,Cuttack,Surgical_Gloves,Surgical,1500,500,boxes,1200,VEND-03,3,MEDIUM
+HOSP-B,Apollo Community Hospital,Cuttack,Syringes,Medical Supplies,700,300,boxes,1800,VEND-04,2,HIGH
+HOSP-B,Apollo Community Hospital,Cuttack,Antibiotics,Medication,90,200,packs,2500,VEND-05,4,HIGH
+HOSP-B,Apollo Community Hospital,Cuttack,Face_Masks,PPE,3200,1000,boxes,900,VEND-03,3,LOW
+HOSP-B,Apollo Community Hospital,Cuttack,Oxygen_Cylinders,Critical Care,40,25,cylinders,4800,VEND-06,1,CRITICAL
+HOSP-B,Apollo Community Hospital,Cuttack,Insulin,Medication,35,50,vials,3200,VEND-05,2,HIGH
+HOSP-B,Apollo Community Hospital,Cuttack,Catheters,Medical Supplies,400,150,packs,2100,VEND-04,3,MEDIUM
+HOSP-B,Apollo Community Hospital,Cuttack,Hand_Sanitizer,PPE,180,300,bottles,800,VEND-03,3,LOW
+HOSP-C,District Medical Center,Puri,IV_Fluids,Critical Care,75,100,bags,3500,VEND-01,1,HIGH
+HOSP-C,District Medical Center,Puri,Blood_O+,Blood,35,30,units,4000,VEND-02,1,CRITICAL
+HOSP-C,District Medical Center,Puri,Surgical_Gloves,Surgical,320,500,boxes,1200,VEND-03,3,MEDIUM
+HOSP-C,District Medical Center,Puri,Syringes,Medical Supplies,450,300,boxes,1800,VEND-04,2,HIGH
+HOSP-C,District Medical Center,Puri,Antibiotics,Medication,300,200,packs,2500,VEND-05,4,HIGH
+HOSP-C,District Medical Center,Puri,Face_Masks,PPE,700,1000,boxes,900,VEND-03,3,LOW
+HOSP-C,District Medical Center,Puri,Oxygen_Cylinders,Critical Care,15,25,cylinders,4800,VEND-06,1,CRITICAL
+HOSP-C,District Medical Center,Puri,Insulin,Medication,80,50,vials,3200,VEND-05,2,HIGH
+HOSP-C,District Medical Center,Puri,Catheters,Medical Supplies,100,150,packs,2100,VEND-04,3,MEDIUM
+HOSP-C,District Medical Center,Puri,Hand_Sanitizer,PPE,500,300,bottles,800,VEND-03,3,LOW
+HOSP-D,Coastal Medical Institute,Balasore,IV_Fluids,Critical Care,30,100,bags,3500,VEND-01,1,HIGH
+HOSP-D,Coastal Medical Institute,Balasore,Blood_O-,Blood,28,30,units,4200,VEND-02,1,CRITICAL
+HOSP-D,Coastal Medical Institute,Balasore,Surgical_Gloves,Surgical,250,500,boxes,1200,VEND-03,3,MEDIUM
+HOSP-D,Coastal Medical Institute,Balasore,Syringes,Medical Supplies,90,300,boxes,1800,VEND-04,2,HIGH
+HOSP-D,Coastal Medical Institute,Balasore,Antibiotics,Medication,170,200,packs,2500,VEND-05,4,HIGH
+HOSP-D,Coastal Medical Institute,Balasore,Face_Masks,PPE,2200,1000,boxes,900,VEND-03,3,LOW
+HOSP-D,Coastal Medical Institute,Balasore,Oxygen_Cylinders,Critical Care,9,25,cylinders,4800,VEND-06,1,CRITICAL
+HOSP-D,Coastal Medical Institute,Balasore,Insulin,Medication,20,50,vials,3200,VEND-05,2,HIGH
+HOSP-D,Coastal Medical Institute,Balasore,Catheters,Medical Supplies,250,150,packs,2100,VEND-04,3,MEDIUM
+HOSP-D,Coastal Medical Institute,Balasore,Hand_Sanitizer,PPE,200,300,bottles,800,VEND-03,3,LOW
+HOSP-E,Regional Trauma Center,Rourkela,IV_Fluids,Critical Care,180,100,bags,3500,VEND-01,1,HIGH
+HOSP-E,Regional Trauma Center,Rourkela,Blood_O+,Blood,10,30,units,4000,VEND-02,1,CRITICAL
+HOSP-E,Regional Trauma Center,Rourkela,Surgical_Gloves,Surgical,900,500,boxes,1200,VEND-03,3,MEDIUM
+HOSP-E,Regional Trauma Center,Rourkela,Syringes,Medical Supplies,180,300,boxes,1800,VEND-04,2,HIGH
+HOSP-E,Regional Trauma Center,Rourkela,Antibiotics,Medication,500,200,packs,2500,VEND-05,4,HIGH
+HOSP-E,Regional Trauma Center,Rourkela,Face_Masks,PPE,800,1000,boxes,900,VEND-03,3,LOW
+HOSP-E,Regional Trauma Center,Rourkela,Oxygen_Cylinders,Critical Care,32,25,cylinders,4800,VEND-06,1,CRITICAL
+HOSP-E,Regional Trauma Center,Rourkela,Insulin,Medication,60,50,vials,3200,VEND-05,2,HIGH
+HOSP-E,Regional Trauma Center,Rourkela,Catheters,Medical Supplies,80,150,packs,2100,VEND-04,3,MEDIUM
+HOSP-E,Regional Trauma Center,Rourkela,Hand_Sanitizer,PPE,450,300,bottles,800,VEND-03,3,LOW

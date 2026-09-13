@@ -1,0 +1,23 @@
+item,supplier_id,supplier_name,unit_price,lead_time_days,available_quantity,availability
+IV_Fluids,VEND-01,MedSupply Co.,3500,1,500,AVAILABLE
+IV_Fluids,VEND-07,HealthSource Ltd.,3200,3,800,AVAILABLE
+Blood_O-,VEND-02,LifeBank Supplies,4200,1,100,AVAILABLE
+Blood_O-,VEND-08,VitalBlood Services,3900,2,150,AVAILABLE
+Blood_O+,VEND-02,LifeBank Supplies,4000,1,120,AVAILABLE
+Blood_O+,VEND-08,VitalBlood Services,3800,2,180,AVAILABLE
+Surgical_Gloves,VEND-03,SurgiCare,1200,3,2000,AVAILABLE
+Surgical_Gloves,VEND-09,MedEquip India,1050,5,3000,AVAILABLE
+Syringes,VEND-04,Precision Medical,1800,2,1500,AVAILABLE
+Syringes,VEND-10,SafeMed Supplies,1600,4,2500,AVAILABLE
+Antibiotics,VEND-05,PharmaDirect,2500,4,800,AVAILABLE
+Antibiotics,VEND-11,MediPharm,2300,6,1200,AVAILABLE
+Face_Masks,VEND-03,SurgiCare,900,3,5000,AVAILABLE
+Face_Masks,VEND-09,MedEquip India,750,5,7000,AVAILABLE
+Oxygen_Cylinders,VEND-06,OxyCare,4800,1,100,AVAILABLE
+Oxygen_Cylinders,VEND-12,AirMed Solutions,4500,2,150,AVAILABLE
+Insulin,VEND-05,PharmaDirect,3200,2,300,AVAILABLE
+Insulin,VEND-11,MediPharm,2900,3,500,AVAILABLE
+Catheters,VEND-04,Precision Medical,2100,3,800,AVAILABLE
+Catheters,VEND-10,SafeMed Supplies,1900,4,1200,AVAILABLE
+Hand_Sanitizer,VEND-03,SurgiCare,800,3,3000,AVAILABLE
+Hand_Sanitizer,VEND-09,MedEquip India,650,5,5000,AVAILABLE
